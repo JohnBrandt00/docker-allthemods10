@@ -1,5 +1,7 @@
 # [All the Mods 10-0.27](https://www.curseforge.com/minecraft/modpacks/all-the-mods-10) on Curseforge
 
+## This is a fork of [docker-allthemods9](https://github.com/Goobaroo/docker-allthemods9) by  Goobaroo, all credit goes to him
+
 <!-- toc -->
 
 - [Description](#description)
